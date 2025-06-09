@@ -246,7 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **naakaarafr** - [@naakaarafr](https://github.com/naakaarafr)
 
-Project Link: [https://github.com/naakaarafr/news-analyser-rag-agent](https://github.com/naakaarafr/News-Analyzer-RAG-Agent)
+Project Link: [https://github.com/naakaarafr/News-Analyzer-RAG-Agent](https://github.com/naakaarafr/News-Analyzer-RAG-Agent)
 
 ---
 
