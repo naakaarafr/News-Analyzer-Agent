@@ -266,6 +266,3 @@ Project Link: [https://github.com/naakaarafr/News-Analyzer-RAG-Agent](https://gi
 - [ ] Sentiment analysis capabilities
 - [ ] Export functionality (PDF, Word, etc.)
 
----
-
-*Built with ❤️ by naakaarafr using CrewAI and LangChain*
