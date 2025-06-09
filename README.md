@@ -20,7 +20,8 @@ A sophisticated multi-agent news analysis system built with CrewAI that automati
 ├── config.py          # Configuration and custom LLM/embedding classes
 ├── crew.py           # Main crew orchestration and execution
 ├── tasks.py          # Task definitions for agents
-└── tools.py          # Custom tools for news fetching and searching
+├── tools.py          # Custom tools for news fetching and searching
+└── test.py           # For testing purposes
 ```
 
 ## 📋 Prerequisites
@@ -34,8 +35,8 @@ A sophisticated multi-agent news analysis system built with CrewAI that automati
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/naakaarafr/news-analyser-rag-agent.git
-   cd news-analyser-rag-agent
+   git clone https://github.com/naakaarafr/News-Analyzer-RAG-Agent.git
+   cd News-Analyzer-RAG-Agent
    ```
 
 2. **Install dependencies**
